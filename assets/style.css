@@ -1,0 +1,6 @@
+<style>
+    .editable:focus {
+        background-color: #fff3cd; /* kuning muda */
+        outline: none;
+    }
+</style>
